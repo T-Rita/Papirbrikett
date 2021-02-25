@@ -1,8 +1,8 @@
 body{
   padding: 15px;
-  color: blue;
-  line-height: 110%;
+  line-height: 125%;
   background-image: url('hatterkep.png');
+  color: #1F3F5F;
 }
 
 h1{
@@ -63,4 +63,8 @@ p:first-letter{
 
 li{
   margin-top: 10px;
+}
+hr{
+  margin-top: 3cm;
+  color: #1F3F5F;
 }
